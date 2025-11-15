@@ -1,0 +1,15 @@
+.container{
+  margin-top: 40px;
+}
+.card {
+  background-color: #ffffff;
+  padding: 20px;
+  width: 300px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 2px 10px rgba(0,0,0,1);
+}
+.foto {
+  border-radius: 60%;
+  margin-bottom: 15px;
+}

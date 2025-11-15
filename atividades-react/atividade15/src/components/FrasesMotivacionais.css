@@ -1,0 +1,11 @@
+.frases-container{}
+
+.card-frase{}
+
+button{
+    background-color: darkgreen;
+}
+
+button:hover{
+    background-color: aquamarine;
+}

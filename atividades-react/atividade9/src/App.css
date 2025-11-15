@@ -1,0 +1,33 @@
+.container {
+  text-align: center;
+  margin-top: 40px;
+  font-family: Arial, sans-serif;
+}
+
+.imagem {
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.botao-curtir {
+  background-color: #555;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.botao-curtir:hover {
+  background-color: #333;
+}
+
+.curtido {
+  background-color: #e91e63 !important;
+}
+
+.curtido:hover {
+  background-color: #c2185b !important;
+}

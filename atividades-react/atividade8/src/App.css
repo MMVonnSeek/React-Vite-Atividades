@@ -1,0 +1,29 @@
+.container {
+  text-align: center;
+  margin-top: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.input {
+  padding: 8px;
+  margin-right: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+.botao {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+.botao:hover {
+  background-color: #225725;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
