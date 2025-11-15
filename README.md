@@ -42,3 +42,5 @@ Disponibilizar um acervo didático que reflita as práticas e exemplos adotados 
 
 Licença
 MIT — consulte o arquivo LICENSE.
+
+⭐ Se este material te ajudou, lembre-se de deixar uma estrela no repositório!
