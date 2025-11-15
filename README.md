@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="20251114_1446_Logo Futurista Vite e React_simple_compose_01ka1qf4qtfk4t6gxkdks7dpzd" src="https://github.com/user-attachments/assets/406fdc3a-570c-451e-b25f-a29ee864a7ac" />
 
 
 
