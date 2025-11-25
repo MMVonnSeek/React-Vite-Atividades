@@ -43,4 +43,9 @@ Disponibilizar um acervo didático que reflita as práticas e exemplos adotados 
 Licença
 MIT — consulte o arquivo LICENSE.
 
-⭐ Se este material te ajudou, lembre-se de deixar uma estrela no repositório!
+---
+
+## Autor
+Professor: Max Müller
+
+Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
